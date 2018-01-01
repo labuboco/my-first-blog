@@ -1,4 +1,0 @@
-运行前先运行虚拟环境
-myvenv\Scripts\activate
-gitignore为让git(使用git status查询时)忽略的文件
-创建gitignore时：另存为all *files

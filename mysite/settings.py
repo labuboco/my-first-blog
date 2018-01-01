@@ -25,7 +25,7 @@ SECRET_KEY = '(9#kd*z4aj%b%3=w648s3@uydha56_idy!-_u(&(9gkb6r*ru6'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['labuboco.pythonanywhere.com', 'localhost', '127.0.0.1']
 
 
 # Application definition
